@@ -1,0 +1,25 @@
+.customSelect{
+    background-color: #707070;
+    color:white;
+    outline: none;
+    padding:5px 25px;
+    box-shadow: 4px 4px #ccc;
+    font-size: 18px;
+}
+
+.innerSelect{
+    padding:5px 25px;
+    outline:none;
+    border-color: #4990E2;
+    color: #4990E2;
+    font-size: 13px;
+    box-shadow: 4px 4px #ccc;   
+}
+.customData{
+    color: #4990E2;
+    border-color: #4990E2;
+    font-size: 13px;
+    padding:2px 3px;
+    outline: none;
+    box-shadow: 4px 4px #ccc;
+}
